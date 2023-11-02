@@ -8,7 +8,7 @@ function usuarioOk($usuario, $contraseña): bool
       $a = true;
    }
 
-   return true;
+   return $a;
 }
 
 
